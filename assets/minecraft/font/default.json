@@ -135,6 +135,11 @@
             "file": "minecraft:font/boss_zeldris.png",
             "ascent": 13, "height": 48,
             "chars": ["\uE012"]
+        },
+    {   "type": "bitmap",
+        "file": "minecraft:font/fada.png",
+        "ascent": 13, "height": 48,
+        "chars": ["\uE013"]
         }
     ]
 }
