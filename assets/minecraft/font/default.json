@@ -137,9 +137,14 @@
             "chars": ["\uE012"]
         },
     {   "type": "bitmap",
-        "file": "minecraft:font/fada.png",
-        "ascent": 13, "height": 48,
-        "chars": ["\uE013"]
+            "file": "minecraft:font/boss_fada.png",
+            "ascent": 13, "height": 48,
+            "chars": ["\uE013"]
+        },
+    {   "type": "bitmap",
+            "file": "minecraft:font/boss_arcanus.png",
+            "ascent": 13, "height": 48,
+            "chars": ["\uE014"]
         }
     ]
 }
